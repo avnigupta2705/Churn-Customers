@@ -167,5 +167,3 @@ Duplicate customer IDs in the support table were reduced to the latest complaint
 - Add customer segmentation and survival analysis.
 
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
